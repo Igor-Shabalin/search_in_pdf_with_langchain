@@ -9,7 +9,7 @@ from langchain.chains import RetrievalQA
 from langchain_openai import ChatOpenAI
 
 # Задаем ключ API OpenAI. В реальном приложении лучше хранить его в переменных окружения
-OPENAI_API_KEY = "sk-rWXNdSFDri8IaLDLMWTkFJyAjfwPGQTVnPOKryNF"
+OPENAI_API_KEY = "ключ от OpenAI API"
 
 def load_pdfs(directory):
     """
