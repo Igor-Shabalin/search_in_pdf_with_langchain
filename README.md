@@ -1,2 +1,3 @@
 # search_in_pdf_with_langchain
-Поиск в pdf документах с Langchain
+Быстрый поиск в pdf документах с Langchain и GPT-4o-mini.
+Нужен ключ к API OpenAi
